@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkpokemon_pokedex"]=self["webpackChunkpokemon_pokedex"]||[]).push([[594],{603:function(e,n,u){u.r(n),u.d(n,{default:function(){return k}});var o=u(6768);const t={class:"about"};function a(e,n){return(0,o.uX)(),(0,o.CE)("div",t,n[0]||(n[0]=[(0,o.Lk)("h1",null,"This is an about page",-1)]))}var r=u(1241);const s={},c=(0,r.A)(s,[["render",a]]);var k=c}}]);
+//# sourceMappingURL=about.4cc4df6d.js.map
