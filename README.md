@@ -1,4 +1,4 @@
-# Modern Pokédex
+# Pokédex
 
 A responsive web application that serves as a comprehensive Pokédex, built with Vue.js and Tailwind CSS.
 
