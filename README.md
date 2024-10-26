@@ -3,9 +3,9 @@
 A responsive web application that serves as a comprehensive Pokédex, built with Vue.js and Tailwind CSS.
 
 <div style="display: flex; justify-content: space-around;">
-    <img src="https://github.com/user-attachments/assets/89c7444c-48da-4a55-a217-7a2a97a7d7a6" alt="Image 1" width="300" />
-    <img src="https://github.com/user-attachments/assets/f8d7492d-b43c-44bf-bc23-d1597ebfd685" alt="Image 2" width="300" />
-    <img src="https://github.com/user-attachments/assets/d30cdc07-e8f8-4d2e-bd9f-2564f3247e5c" alt="Image 3" width="300" />
+    <img src="https://github.com/user-attachments/assets/89c7444c-48da-4a55-a217-7a2a97a7d7a6" alt="Image 1" style="width: 300px; height: auto; object-fit: cover;" />
+    <img src="https://github.com/user-attachments/assets/f8d7492d-b43c-44bf-bc23-d1597ebfd685" alt="Image 2" style="width: 300px; height: auto; object-fit: cover;" />
+    <img src="https://github.com/user-attachments/assets/d30cdc07-e8f8-4d2e-bd9f-2564f3247e5c" alt="Image 3" style="width: 300px; height: auto; object-fit: cover;" />
 </div>
 
 
